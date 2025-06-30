@@ -1,7 +1,3 @@
-
-<img src="https://pixelsafari.neocities.org/dividers/horror/chain.png"/>
-
-
 <p align="center">
 щенки - смерти нет
 </p>
