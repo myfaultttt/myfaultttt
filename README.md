@@ -1,4 +1,8 @@
 <p align="center">
+<img src="https://pixelsafari.neocities.org/dividers/horror/chain.png"/>
+</p>
+
+<p align="center">
 щенки - смерти нет
 </p>
 <p align="center">
@@ -11,3 +15,4 @@
 <p align="center">
 <img src="https://i.ibb.co/VMwD0HJ/Graveyard-divider.png"><img src="https://i.ibb.co/VMwD0HJ/Graveyard-divider.png"> 
 </p>
+
