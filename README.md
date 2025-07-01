@@ -17,12 +17,3 @@
 </p>
 
 <iframe src="https://assets.pinterest.com/ext/embed.html?id=767300855300816509" height="359" width="345" frameborder="0" scrolling="no" ></iframe>
-    <img src="ALBUMCOVERSOURCECODE"/>
-  </div>
-  <div class="title">Artist - Album</div>
-
-  <div class="vinyl">
-    <img src="ALBUMCOVERSOURCECODE"/>
-  </div>
-  <div class="title">Artist - Album</div>
-</div>
