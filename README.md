@@ -16,4 +16,3 @@
 <img src="https://i.ibb.co/VMwD0HJ/Graveyard-divider.png"><img src="https://i.ibb.co/VMwD0HJ/Graveyard-divider.png"> 
 </p>
 
-<iframe src="https://assets.pinterest.com/ext/embed.html?id=767300855300816509" height="359" width="345" frameborder="0" scrolling="no" ></iframe>
