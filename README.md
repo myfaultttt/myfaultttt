@@ -1,5 +1,5 @@
 <p align="center">
-<img src="http://dl.glitter-graphics.net/pub/263/263171lxlble1hnk.gif" width="385" height="20"/>
+<img src="http://dl.glitter-graphics.net/pub/263/263171lxlble1hnk.gif" width="500" height="20"/>
 </p>
 
 <p align="center">
