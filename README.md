@@ -1,4 +1,4 @@
-<a href="https://www.glitter-graphics.com"><img src="http://dl.glitter-graphics.net/pub/263/263171lxlble1hnk.gif" width="385" height="20"/></a><br/><a href="https://www.glitter-graphics.com" target="_blank">glitter-graphics.com</a>
+<img src="http://dl.glitter-graphics.net/pub/263/263171lxlble1hnk.gif" width="385" height="20"/>
 
 
 <p align="center">
