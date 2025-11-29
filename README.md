@@ -14,7 +14,7 @@ alex g - race
 </p>
 
 <p align="center">
-<img src="https://i.ibb.co/VMwD0HJ/Graveyard-divider.png"><img src="https://i.ibb.co/VMwD0HJ/Graveyard-divider.png"> 
+<img src="https://i.pinimg.com/originals/ca/c9/95/cac99575e4a926b41193c5f696960e75.gif"><img src="https://i.ibb.co/VMwD0HJ/Graveyard-divider.png"> 
 </p>
 
 cr pfp motheentosh
