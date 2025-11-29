@@ -13,8 +13,9 @@ alex g - race
 ◄◄⠀▐▐ ⠀►►⠀⠀　　⠀0:25 / 3:43　 　 ⠀ ──○─ 🔊⠀⠀ 　ᴴᴰ ⚙ ❐
 </p>
 
-<p align="center">
-<img src="https://i.pinimg.com/originals/92/8c/14/928c14bad5bbc258894b050af1e17ba8.gif"><img src="https://i.ibb.co/VMwD0HJ/Graveyard-divider.png"> 
-</p>
+
+
+
+
 
 cr pfp motheentosh
